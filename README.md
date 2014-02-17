@@ -1,6 +1,6 @@
 SelectField
 ===========
-Tiny jQuery-based select field replacement
+Tiny (~2KB) jQuery-based select field replacement
 
 ![SelectField screenshot](http://i.imgur.com/VRnrvVm.png)
 
