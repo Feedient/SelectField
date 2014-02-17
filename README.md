@@ -1,6 +1,6 @@
 SelectField
 ===========
-Tiny (~2KB) jQuery-based select field replacement
+Tiny (~2KB) jQuery-based select field replacement used at [Feedient](https://feedient.com).
 
 ![SelectField screenshot](http://i.imgur.com/VRnrvVm.png)
 
