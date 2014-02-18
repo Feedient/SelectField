@@ -36,6 +36,10 @@
 	position: absolute;
 	background-color: #fff;
 	box-shadow: 0px 5px 15px #ccc;
+	-moz-box-shadow: 0px 5px 15px #ccc;
+	-ms-box-shadow: 0px 5px 15px #ccc;
+	-webkit-box-shadow: 0px 5px 15px #ccc;
+	-o-box-shadow: 0px 5px 15px #ccc;
 	border-radius: 2px;
 	border-top-left-radius: 0px;
 	border-top-right-radius: 0px;
@@ -43,6 +47,8 @@
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
+	overflow: auto;
+	max-height: 200px;
 }
 
 .select-dropdown.hidden { display: none; }
